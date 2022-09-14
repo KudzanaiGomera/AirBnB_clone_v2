@@ -65,7 +65,7 @@ Using a MySQL storage we replace the file storage (JSON file) by a Database stor
 
 ## Prerequisites
 
-This program was made and tested using Ubuntu 14.04.3 LTS and Python 3.4.3 So we recommend you to test this command interpreter under this conditions.
+This program was made and tested using Ubuntu 20.04 LTS and Python 3.4.3 So we recommend you to test this command interpreter under this conditions.
 
 ## Built With
 
