@@ -69,7 +69,7 @@ This program was made and tested using Ubuntu 20.04 LTS and Python 3.4.3 So we r
 
 ## Built With
 
-- Ubuntu 14.04.3 LTS Running on a Virtual Machine "Vagrant"
+- Ubuntu 20.04 LTS Running on a Virtual Machine "Vagrant"
 - GNU Emacs 24.3.1
 - Python 3.4.3
 
